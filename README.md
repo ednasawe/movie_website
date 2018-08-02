@@ -10,7 +10,6 @@ provide a trailer of the movies by opening another
 webbrowser, in this case Youtube.
 
 
-
-License
+License 
 
 The contents of this repository are covered under the MIT License.
