@@ -9,7 +9,31 @@ and Python function to access the movie database and
 provide a trailer of the movies by opening another
 webbrowser, in this case Youtube.
 
+#Resource
 
-License 
+- Choose A License - Helpful website for picking out a license for an application.
+- Udacity - Helpful in learning contents and resources to guide.
+
+
+#How to Contribute
+
+Contributions are welcomes. If you find any typos, errors, or additional resources.
+First, fork this repository.
+
+You can Fork Icon the project.
+
+Or clone the repository to make changes.
+
+$ git clone {REPOSITORY_CLONE_URL}
+$ cd to the directory
+
+
+You can also Pull Request Icon by:
+
+Making a pull request. Once you've pushed changes to your local repository,
+you can issue a pull request by clicking on the pull request icon.
+
+
+#License 
 
 The contents of this repository are covered under the MIT License.
